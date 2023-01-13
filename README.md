@@ -3,8 +3,8 @@
     attractive. On my profile you will find all source codes shown in instagram, YouTube and other social media
     platforms.</h3>
     
-<!-- views -->
-<img align="right" alt="Gif" width="400" src="https://raw.githubusercontent.com/Coding-inverse/Coding-inverse/main/assets/Gif.gif">
+<!-- gif -->
+<img align="right" alt="Gif" width="400" src="https://raw.githubusercontent.com/Coding-inverse/Coding-inverse/main/assets/Agif.gif">
 
 <!-- views -->
 <p align="left"> <img
